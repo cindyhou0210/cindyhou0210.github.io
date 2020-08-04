@@ -26,11 +26,11 @@ time, mark, audio, video {
 }
 /* HTML5 display-role reset for older browsers */
 @font-face {
-	font-family: Akira Expanded; src: url(Akira Expanded Demo.otf);
+	font-family: Akira Expanded; src: url(akiraexpandeddemo.otf);
 
 }
 @font-face {
-	font-family: Gellato Rush; src: url(Gellato Rush.otf);
+	font-family: Gellato Rush; src: url(gellatorush.otf);
 }
 
 article, aside, details, figcaption, figure,
