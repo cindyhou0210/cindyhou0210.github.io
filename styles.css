@@ -246,7 +246,7 @@ canvas {
 
 .cindyimage{
   margin-top: 3rem;
-  
+  margin-left: 2rem;
   width:25%;
 }
 
@@ -275,7 +275,7 @@ canvas {
   margin-bottom: 1rem;
 }
 .cindyPhone{
-
+  margin-left: 5rem;
   margin-top: -3rem;
   font-size: 60px;
   font-family: Gellato Rush;
