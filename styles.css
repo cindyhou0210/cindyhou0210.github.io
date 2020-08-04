@@ -282,29 +282,29 @@ canvas {
 }
 .project{
   margin-top: 3rem;
-  font-size: 20px;
+  font-size: 15px;
         -webkit-text-stroke-width: 1px;
   color:red;
 }
 
 .work{
-  font-size: 20px;
+  font-size: 15px;
         -webkit-text-stroke-width: 1px;
   color:red;
 }
 
 .current{
-  font-size: 18px;
+  font-size: 15px;
 }
 
 .past{
-  font-size: 18px;
+  font-size: 15px;
 }
 .tech{
-  font-size: 18px;
+  font-size: 15px;
 }
 .business{
-  font-size: 18px;
+  font-size: 15px;
 }
 
 .text1{
