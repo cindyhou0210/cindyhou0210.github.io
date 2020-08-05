@@ -57,16 +57,19 @@ canvas {
 .inspiration{
   font-size:20px;
   color: grey;
+  font-family: Afta sans;
 }
 
 .codes{
   font-size:20px;
   color: grey;
+  font-family: Afta sans;
 }
 
 .images{
   font-size:20px;
   color: grey;
+  font-family: Afta sans;
 }
 
 .images:hover{
