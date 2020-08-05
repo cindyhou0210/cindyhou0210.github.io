@@ -29,6 +29,15 @@ article, aside, details, figcaption, figure,
 footer, header, hgroup, menu, nav, section {
 	display: block;
 }
+
+@font-face {
+	font-family: Akira Expanded; src: url(akiraexpandeddemo.otf);
+}
+
+@font-face {
+	font-family: Gellato Rush; src: url(gellatorush.otf);
+}
+
 body {
 	line-height: 1;
 	<!background-color: #FCF3CF;>
@@ -79,6 +88,13 @@ canvas {
 .Cindy:hover{
   color: orange;
   cursor: pointer;
+}
+
+.cindyPhone{
+
+  margin-top: -3rem;
+  font-size: 30px;
+  font-family: Gellato Rush;
 }
 
 .Introduction{
@@ -286,12 +302,7 @@ canvas {
   font-family: Gellato Rush;
   margin-bottom: 1rem;
 }
-.cindyPhone{
 
-  margin-top: -3rem;
-  font-size: 60px;
-  font-family: Gellato Rush;
-}
 .project{
   margin-top: 3rem;
   font-size: 20px;
@@ -353,15 +364,6 @@ canvas {
   width:150%;
   height: auto;
 
-
 }
-
-
-
-
-
-
-
-
 
 }
