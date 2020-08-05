@@ -1,4 +1,4 @@
-* http://meyerweb.com/eric/tools/css/reset/
+/* http://meyerweb.com/eric/tools/css/reset/
    v2.0 | 20110126
    License: none (public domain)
 */
@@ -25,14 +25,6 @@ time, mark, audio, video {
 	vertical-align: baseline;
 }
 /* HTML5 display-role reset for older browsers */
-@font-face {
-	font-family: Akira Expanded; src: url(akiraexpandeddemo.otf);
-
-}
-@font-face {
-	font-family: Gellato Rush; src: url(gellatorush.otf);
-}
-
 article, aside, details, figcaption, figure,
 footer, header, hgroup, menu, nav, section {
 	display: block;
@@ -200,38 +192,58 @@ canvas {
   margin-bottom: 1rem;
 
   font-size:20px;
-  font-family: Akira Expanded;
+  font-family: The Bold Font;
+}
+
+.containerBig{
+  margin-top: 5rem;
+}
+/*
+.row{
+  display: flex;
+  flex-wrap: wrap;
+  padding: 0 4px;
+}
+
+.column1 {
+  flex: 50%;
+  padding: 0 4px;
+}
+
+.column img {
+  margin-top: 8px;
+  vertical-align: middle;
 }
 .tamid{
-  margin-top: 5rem;
+  margin-top: 10rem;
   margin-right:10rem;
 }
 .mike{
-  margin-top: 5rem;
-  margin-left: 2rem;
+  margin-top: 0rem;
+  margin-left:10rem;
 }
+
 .schedule{
-  margin-top: 1rem;
-  margin-right:10rem;
+  margin-top: rem;
+  margin-right:25rem;
 }
 .countdown{
-  margin-left: 2rem;
+  margin-top: 0rem;
+  margin-left: 25rem;
 }
 
 .poster2{
-  margin-top: -8rem;
+  margin-top: 1rem;
+
 }
 
 .poster{
-  margin-top:9rem;
-
-}
+  margin-top:1rem;
+  margin-left: 50rem;
+}*/
 
 @media (max-width: 575px) {
 
-.body{
-  overflow-x: hidden;
-}
 .Introduction{
   margin-top:3rem;
   margin-left: 3rem;
@@ -246,7 +258,7 @@ canvas {
 
 .cindyimage{
   margin-top: 3rem;
-  margin-left: 2rem;
+
   width:25%;
 }
 
@@ -275,36 +287,36 @@ canvas {
   margin-bottom: 1rem;
 }
 .cindyPhone{
-  margin-left: 7;
+
   margin-top: -3rem;
   font-size: 60px;
   font-family: Gellato Rush;
 }
 .project{
   margin-top: 3rem;
-  font-size: 15px;
+  font-size: 20px;
         -webkit-text-stroke-width: 1px;
   color:red;
 }
 
 .work{
-  font-size: 15px;
+  font-size: 20px;
         -webkit-text-stroke-width: 1px;
   color:red;
 }
 
 .current{
-  font-size: 15px;
+  font-size: 18px;
 }
 
 .past{
-  font-size: 15px;
+  font-size: 18px;
 }
 .tech{
-  font-size: 15px;
+  font-size: 18px;
 }
 .business{
-  font-size: 15px;
+  font-size: 18px;
 }
 
 .text1{
@@ -323,4 +335,33 @@ canvas {
 .buttom{
   font-size: 15px;
 }
+
+/*  image.html                              */
+
+.imagesClicked{
+  font-size:25px;
+  color: black;
+  margin-left: 3rem;
+}
+
+.tamid{
+  margin-left:3rem;
+  width:150%;
+}
+
+.mike{
+  width:150%;
+  height: auto;
+
+
+}
+
+
+
+
+
+
+
+
+
 }
