@@ -117,7 +117,7 @@ canvas {
 }
 
 .Introduction{
-  margin-left:8rem;
+  margin-left:5rem;
   margin-top: 10rem;
 
   color: black;
@@ -131,7 +131,7 @@ canvas {
 }
 .cindyimage{
   margin-left:5rem;
-  margin-top: 8rem;
+  margin-top: 10rem;
 }
 
 
@@ -302,7 +302,7 @@ canvas {
 
 .Introduction{
   margin-top:3rem;
-  margin-left: 3rem;
+  margin-left: 2.5rem;
   font-size: 50px;
 
 }
@@ -314,6 +314,7 @@ canvas {
 
 .cindyimage{
   margin-top: 3rem;
+  margin-left: 6rem;
 
   width:25%;
 }
@@ -414,7 +415,7 @@ canvas {
 
 }
 
-@media (max-width: 1200px) {
+@media (min-width: 576px max-width: 1400px) {
 
 .cindyimage{
   margin-left: 10rem;
