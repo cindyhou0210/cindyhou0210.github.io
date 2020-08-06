@@ -314,7 +314,7 @@ canvas {
 
 .cindyimage{
   margin-top: 3rem;
-  margin-left: 2rem;
+  margin-left: 1rem;
 
   width:25%;
 }
@@ -423,14 +423,13 @@ canvas {
 
 }
 
-/*@media (min-width: 576px max-width: 1400px) {
+@media (min-width: 576px max-width: 1400px) {
 
-.cindyimage{
-  text-align: center;
-  /*margin-top: 3rem;;
+.inspiration{
+  margin-right: 1rem;
 }
 
 
 
 
-}*/
+}
