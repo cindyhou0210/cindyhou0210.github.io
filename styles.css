@@ -117,7 +117,7 @@ canvas {
 }
 
 .Introduction{
-  margin-left:5rem;
+  margin-left:2rem;
   margin-top: 10rem;
 
   color: black;
@@ -130,7 +130,7 @@ canvas {
   line-height: 1.3;
 }
 .cindyimage{
-  margin-left:5rem;
+  margin-left:0rem;
   margin-top: 10rem;
 }
 
@@ -314,9 +314,17 @@ canvas {
 
 .cindyimage{
   margin-top: 3rem;
-  margin-left: 6rem;
+  margin-left: 3rem;
 
   width:25%;
+}
+
+.cindyPhone{
+
+  margin-top: -3rem;
+
+  font-size: 50px;
+
 }
 
 .inspiration{
@@ -418,7 +426,7 @@ canvas {
 @media (min-width: 576px max-width: 1400px) {
 
 .cindyimage{
-  margin-left: 10rem;
+  margin-left: 0rem;
   margin-top: 3rem;;
 }
 
