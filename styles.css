@@ -31,7 +31,7 @@ footer, header, hgroup, menu, nav, section {
 }
 
 @font-face {
-	font-family: Afta sans Expanded; src: url(aftasansregular.otf);
+	font-family: Afta sans; src: url(aftasansregular.otf);
 }
 
 @font-face {
