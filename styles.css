@@ -308,21 +308,21 @@ canvas {
 }
 
 .textIntro{
-  font-size: 17px;
+  font-size: 20px;
 
 }
 
 .cindyimage{
-  margin-top: 2rem;
-  margin-left: 1rem;
+  margin-top: 1rem;
+  margin-left: 0rem;
 
-  width:25%;
+  width:10%;
 }
 
 .cindyPhone{
 
   margin-top: -3rem;
-	margin-left: 1rem;
+
   font-size: 50px;
 
 }
@@ -425,8 +425,8 @@ canvas {
 
 @media (min-width: 576px max-width: 1400px) {
 
-.inspiration{
-  margin-right: 1rem;
+.codes{
+  margin-left: 2rem;
 }
 
 
