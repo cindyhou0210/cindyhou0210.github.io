@@ -38,6 +38,10 @@ footer, header, hgroup, menu, nav, section {
 	font-family: Gellato Rush; src: url(gellatorush.otf);
 }
 
+@font-face {
+	font-family: Montserrat; src: url(Montserrat-ExtraBold.ttf);
+}
+
 body {
 	line-height: 1;
 	<!background-color: #FCF3CF;>
@@ -64,6 +68,17 @@ canvas {
   font-size:20px;
   color: grey;
   font-family: Afta sans;
+}
+
+.codes:hover{
+  color: black;
+  cursor:pointer;
+}
+
+.codesClicked{
+  font-size:20px;
+  color: black;
+	font-family: Afta sans;
 }
 
 .images{
@@ -126,14 +141,14 @@ canvas {
 					 -webkit-text-stroke-width: 2px;
 					 -webkit-text-stroke-color: red;
 	font-size: 35px;
-	font-family: Akira Expanded;
+	font-family: Montserrat;
   margin-top: 10rem;
 }
 
 .current{
   color: black;
 	font-size: 22px;
-	font-family: Akira Expanded;
+	font-family: Montserrat;
   margin-top: 2rem;
 }
 
@@ -149,7 +164,7 @@ canvas {
 .past{
   color: black;
 	font-size: 22px;
-	font-family: Akira Expanded;
+	font-family: Montserrat;
   margin-top: 2rem;
 }
 
@@ -169,14 +184,14 @@ canvas {
            -webkit-text-stroke-width: 2px;
            -webkit-text-stroke-color: red;
   font-size: 35px;
-  font-family: Akira Expanded;
+  font-family: Montserrat;
   margin-top: 3rem;
 }
 
 .tech{
   color:Grey;
 	font-size: 22px;
-	font-family: Akira Expanded;
+	font-family: Montserrat;
   margin-top: 2rem;
 }
 
@@ -193,7 +208,7 @@ canvas {
 .business{
   color:Grey;
   font-size: 22px;
-  font-family: Akira Expanded;
+  font-family: Montserrat;
   margin-top: 2rem;
 }
 
@@ -354,6 +369,12 @@ canvas {
 /*  image.html                              */
 
 .imagesClicked{
+  font-size:25px;
+  color: black;
+  margin-left: 3rem;
+}
+
+.codesClicked{
   font-size:25px;
   color: black;
   margin-left: 3rem;
