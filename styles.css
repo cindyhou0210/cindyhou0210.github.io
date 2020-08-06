@@ -413,3 +413,24 @@ canvas {
 }
 
 }
+
+@media (max-width: 800px) {
+
+.cindyimage{
+  margin-left: 10rem;
+  margin-top: 3rem;;
+}
+
+.cindyPhone{
+  margin-left: 6rem;
+}
+  /*.imageCindy{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+  }*/
+
+
+
+}
